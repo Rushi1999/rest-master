@@ -1,7 +1,7 @@
 # Rest Client
 
 
-
+Bublish by Rushikesh Jankar
 [Rest client] to make GET, POST, PUT, DELETE, PATCH, etc calls.
 
 ## Installation
